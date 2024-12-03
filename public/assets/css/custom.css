@@ -1,0 +1,40 @@
+.custom-logo {
+    position: absolute;
+    top: 20px;
+    z-index: 99999;
+    left: 51px;
+    font-size: 26px;
+    background: #012540;
+    color: #ffffff;
+    font-weight: bold;
+}
+.header-fixed .custom-logo {
+    background: white !important;
+    color: #012540 !important;
+}
+.other-logo {
+    position: absolute;
+    top: 20px;
+    z-index: 99999;
+    left: 51px;
+    font-size: 26px;
+    background: white;
+    color: #012540;
+    font-weight: bold;
+}
+.border-bottom {
+    border-bottom: 1px solid #eaeaea;
+}
+.custom-border  li {
+    border: 1px solid #dadada;
+}
+._job_detail_box h4 {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+    padding: 10px 10px;
+    background-color: #fff;
+    display: block;
+    border-bottom: 1px solid #eaeaea;
+    border-radius: 4px 4px 0 0;
+}
